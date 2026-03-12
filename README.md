@@ -1,16 +1,25 @@
-## Hi there 👋
+# Hi 👋 I'm Ochir Erdene
 
-<!--
-**Ochirooto/Ochirooto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💻 Full-Stack Developer from Mongolia 🇲🇳  
+🚀 Building modern web applications
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠 Tech Stack
+Next.js • TypeScript • MongoDB • Tailwind • Node.js
+
+---
+
+## 🚀 Projects
+📚 **Suray** – Education platform for students  
+🎓 **Revo EDU** – Learning and course ecosystem
+
+---
+
+## 📊 GitHub Stats
+![GitHub stats](https://github-readme-stats.vercel.app/api?username=Ochirooto&show_icons=true&theme=tokyonight)
+
+---
+
+## 🌐 Connect
+GitHub: https://github.com/Ochirooto
